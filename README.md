@@ -1,1 +1,1 @@
-Hello GitHub
+Welcome to collaborative coding
